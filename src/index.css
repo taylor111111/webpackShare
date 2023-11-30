@@ -1,0 +1,13 @@
+div {
+  width: 600px;
+  height: 200px;
+  background: #ccc;
+}
+div p {
+  color: red;
+  margin: 0;
+  padding: 0;
+}
+#div1 {
+  background-image: url('../assets/feature-img-2.jpg');
+}
